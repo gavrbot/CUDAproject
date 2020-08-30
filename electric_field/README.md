@@ -1,0 +1,1 @@
+This is NVIDIA CUDA project, that shows physical model of movable color circles which move under the force of gravity. Technologies: NVIDIA Cuda, OpenGl, C++
